@@ -24,7 +24,7 @@ SQL Study 정리 [공간](https://github.com/P-C-Space/SQLStudy)
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual-Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=C-SharplogoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/JAVA-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
