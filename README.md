@@ -6,11 +6,11 @@
 
 ### 머신러닝 클래스
 내용 :
-해당 저정소 이동 : 
+<br>해당 저정소 이동 : 
 
 ### 데이터 분석해 보기
 내용 :
-해당 저정소 이동 : 
+<br>해당 저정소 이동 : 
 <!--
 **P-C-Space/P-C-Space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
