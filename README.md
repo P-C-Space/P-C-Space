@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-### 파이썬 시작하기 - 클래스
-내용 :
-<br>해당 저정소 이동 : 
+### Web 시작하기 - 클래스
+* 해당 저장소 이동 : 
 
 ### 머신러닝 클래스
-내용 :
-<br>해당 저정소 이동 : 
+* 해당 저장소 이동 : 
 
 ### 데이터 분석해 보기
-내용 :
-<br>해당 저정소 이동 : 
+* 해당 저장소 이동 : 
+
+### SQL 내용 정리
+* 해당 저장소 이동 : 
+
+### 백준 문제 풀이
+* 해당 저장소 [html](https://github.com/P-C-Space/Baekjoon)
+
 <!--
 **P-C-Space/P-C-Space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
