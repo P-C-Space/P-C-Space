@@ -10,7 +10,7 @@ Web Study와 나만의 페이지를 만드는 공간
 
 ### 데이터 분석해 보기
 2022데이터 분석 공간
-* 해당 저장소 [html](https://github.com/P-C-Space/MyDataAnalysis)
+해당 저장소 [html](https://github.com/P-C-Space/MyDataAnalysis)
 
 ### SQL 내용 정리
 SQL Study 정리 공간
