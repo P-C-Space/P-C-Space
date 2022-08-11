@@ -20,7 +20,8 @@ SQL Study 정리 [공간](https://github.com/P-C-Space/SQLStudy)
 ### 명품 JAVA Programming 실습 풀이
 명품 명품 JAVA Programming 실습 풀이 [공간](https://github.com/P-C-Space/Practicing-the-textbook)
 
-# <center>Use Language
+<h1 align="center">Use Language</h1>
+<p align = "center">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual-Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/>
@@ -31,3 +32,4 @@ SQL Study 정리 [공간](https://github.com/P-C-Space/SQLStudy)
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3B&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/> 
+</p>
