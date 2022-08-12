@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# Study
 ### Web 시작하기 - 클래스
 Web Study와 나만의 페이지를 만드는  [공간](https://github.com/P-C-Space/html)
 
@@ -13,7 +13,7 @@ Web Study와 나만의 페이지를 만드는  [공간](https://github.com/P-C-S
 
 ### SQL 내용 정리
 SQL Study 정리 [공간](https://github.com/P-C-Space/SQLStudy)
-
+# 문제 풀이
 ### 백준 문제 풀이
 백준 문제 풀이 [공간](https://github.com/P-C-Space/Baekjoon)
 
