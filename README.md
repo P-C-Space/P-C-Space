@@ -6,8 +6,9 @@
 -->
 
 ### 데이터 분석해 보기
-2022 데이터 분석 [공간](https://github.com/P-C-Space/MyDataAnalysis)
-<br>2023 데이터 분석 [공간](https://github.com/P-C-Space/MyDataAnalysis02)
+* 2022 데이터 분석 [공간](https://github.com/P-C-Space/MyDataAnalysis)
+* 2023 데이터 분석 [공간](https://github.com/P-C-Space/MyDataAnalysis02)
+* tensorflow guideLine [공간](https://github.com/P-C-Space/tensorflow_guide)
 
 # 문제 풀이
 ### 백준 문제 풀이
