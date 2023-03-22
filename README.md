@@ -9,7 +9,7 @@
 ## 데이터 분석
 * 2022 데이터 분석 [공간](https://github.com/P-C-Space/MyDataAnalysis)
 * 2023 데이터 분석 [공간](https://github.com/P-C-Space/MyDataAnalysis02)
-## 설치 
+## 설치 가이드
 * tensorflow guideLine [공간](https://github.com/P-C-Space/tensorflow_guide)
 
 # 문제 풀이
