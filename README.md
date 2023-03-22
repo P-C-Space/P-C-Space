@@ -5,9 +5,11 @@
 2022 60일 과정 AI 강의 실습 내용과 Kaggle대회 프로젝트 [공간](https://github.com/P-C-Space/AI_Study)
 -->
 
-### 데이터 분석해 보기
+# 데이터 분석해 보기
+## 데이터 분석
 * 2022 데이터 분석 [공간](https://github.com/P-C-Space/MyDataAnalysis)
 * 2023 데이터 분석 [공간](https://github.com/P-C-Space/MyDataAnalysis02)
+## 설치 
 * tensorflow guideLine [공간](https://github.com/P-C-Space/tensorflow_guide)
 
 # 문제 풀이
