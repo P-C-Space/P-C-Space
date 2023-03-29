@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungw0701)](https://solved.ac/jungw0701/)
 <!--
 ### 인공지능 클래스
 2022 60일 과정 AI 강의 실습 내용과 Kaggle대회 프로젝트 [공간](https://github.com/P-C-Space/AI_Study)
