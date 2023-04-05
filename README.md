@@ -14,8 +14,8 @@
 
 # 문제 풀이
 ### 백준 문제 풀이
-백준 문제 풀이 [공간](https://github.com/P-C-Space/Baekjoon)
-백준 문제 풀이 - Hub [공간](https://github.com/P-C-Space/BaekHub)
+* 백준 문제 풀이 [공간](https://github.com/P-C-Space/Baekjoon)
+* 백준 문제 풀이 - Hub [공간](https://github.com/P-C-Space/BaekHub)
 ### 명품 JAVA Programming 실습 풀이
 명품 명품 JAVA Programming 실습 풀이 [공간](https://github.com/P-C-Space/Practicing-the-textbook)
 
