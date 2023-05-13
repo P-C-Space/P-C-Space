@@ -22,6 +22,8 @@
 # 학교
 * IOT 수업 제출 - Parking System [공간](https://github.com/f1v3-dev/Parking-System)
 
+# 외주
+* 블루투스 통신을 이용한 초음파 탐지로 부저 알림 [공간](https://github.com/P-C-Space/Arduino_outsourcing) 
 <h1 align="center">Use</h1>
 <p align = "center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
