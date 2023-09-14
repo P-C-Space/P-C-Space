@@ -4,6 +4,10 @@
 ### 인공지능 클래스
 2022 60일 과정 AI 강의 실습 내용과 Kaggle대회 프로젝트 [공간](https://github.com/P-C-Space/AI_Study)
 -->
+# NHN 4기과정
+* 체험과정 [공간](https://github.com/P-C-Space/NHNStudy)
+* 본과정 [공간](https://github.com/P-C-Space/NHN4)
+* NHN mart [공간](https://github.com/P-C-Space/NHNMart)
 
 # 데이터 분석해 보기
 ## 데이터 분석
