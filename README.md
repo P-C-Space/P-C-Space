@@ -10,6 +10,7 @@
   - 자바 과정으로 이동
 * 본과정(자바 과정) [공간](https://github.com/P-C-Space/JavaProgramming)
 * NHN mart [공간](https://github.com/P-C-Space/NHNMart)
+* StarCraft [공간](https://github.com/P-C-Space/JavaProgramming/tree/main/CollabCode/StarCraft)
 
 # 데이터 분석해 보기
 ## 데이터 분석
