@@ -7,7 +7,6 @@
 # NHN 4기과정
 * 체험과정 [공간](https://github.com/P-C-Space/NHNStudy)
 * 본과정 [공간](https://github.com/P-C-Space/NHN4)
-  - 자바 과정으로 이동
 * 본과정(자바 과정) [공간](https://github.com/P-C-Space/JavaProgramming)
 * 서브과정(다양한 과제) [공간](https://github.com/P-C-Space/SubStudy)
 * NHN mart [공간](https://github.com/P-C-Space/NHNMart)
