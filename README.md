@@ -7,10 +7,9 @@
 # NHN 4기과정
 * 체험과정 [공간](https://github.com/P-C-Space/NHNStudy)
 * 본과정 [공간](https://github.com/P-C-Space/NHN4)
+### 자기 주도 학습 - [3팀](https://github.com/NHN-Team-03/ITP)
 * 본과정(자바 과정) [공간](https://github.com/P-C-Space/JavaProgramming)
 * 서브과정(다양한 과제) [공간](https://github.com/P-C-Space/SubStudy)
-### 자기 주도 학습
-* MIT JAVA [공간](https://github.com/NHN-Team-03/ITP)
 ### 과제
 * NHN mart [공간](https://github.com/P-C-Space/NHNMart)
 * StarCraft [공간](https://github.com/P-C-Space/JavaProgramming/tree/main/CollabCode/StarCraft)
